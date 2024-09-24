@@ -1,6 +1,5 @@
 Hi, I’m **Sevy**! I am a 3rd year undergraduate student studying **Computing Science** (with a minor in **Statistics**) at **Simon Fraser University**.  I am currently seeking internships/co-ops for Spring 2025 and/or Summer 2025. I am particularly 
 interested in software development, ML/Data Science and technical product management related roles. Outside of school, I love to ski, bike, hike, paint and read. I also love to cook and try new cafes and restaurants. 
-Check out my **portfolio** (work in progress) to learn more about me and some of my projects! 
 - 💬 I am always interested in learning about new opportunities as well as chatting about anything tech related or any of my interests! 
 - 🌱 I’m currently learning: Pytorch, Machine Learning, React
 - 📫 How to reach me:
