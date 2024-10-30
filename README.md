@@ -6,8 +6,8 @@ interested in software development, ML/Data Science and technical product manage
   - smv4@sfu.ca
  
 ## Skills:
-- **Web Development:** HTML, CSS, Javascript, Typescript
-- **Data Science/ML:** Python, R, Scikit-learn, Numpy, Pandas, Matplotlib, Jupyter Notebooks, Matlab
+- **Web Development:** HTML, CSS, Javascript, Typescript, Angular
+- **Data Science/ML:** Python, R, Scikit-learn, Numpy, Pandas, SciPy, NLTK, Matplotlib, Jupyter Notebooks, Matlab
 - **Software Development:** Java, Maven, JUnit, SQL, Git, IntelliJ, VS Code
 
 <!---
