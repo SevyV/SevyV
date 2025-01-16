@@ -7,7 +7,7 @@ interested in software development, ML/Data Science and technical product manage
  
 ## Skills:
 - **Web Development:** HTML, CSS, Javascript, Typescript, Angular
-- **Data Science/ML:** Python, R, Scikit-learn, Numpy, Pandas, SciPy, NLTK, Matplotlib, Jupyter Notebooks, Matlab
+- **Data Science/ML:** Python, R, Scikit-learn, Numpy, Pandas, SciPy, NLTK, Matplotlib, Jupyter Notebooks, Matlab, Tableau
 - **Software Development:** Java, Maven, JUnit, SQL, Git, IntelliJ, VS Code
 
 <!---
